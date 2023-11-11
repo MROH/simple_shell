@@ -1,4 +1,5 @@
-This is a 0x16. C - Simple Shell project for ALX programme
+This is our 0x16 task. 
+C - Simple Shell project for ALX programme
 
 Authors:
 *Onyango Henry
